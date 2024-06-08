@@ -1,0 +1,6 @@
+.openapi-generator-ignore
+apis/ServicesForAcquirersApi.ts
+apis/ServicesForNSPsApi.ts
+apis/index.ts
+index.ts
+runtime.ts
